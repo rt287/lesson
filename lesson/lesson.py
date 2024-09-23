@@ -22,4 +22,7 @@
 print("think of a vegetable out of  peas, broccoli, carrot, sweetcorn") 
 print("im going to guess the vegetable your thinking of")
 print("YorN answers ONLY")
+hello = input()
+bruh = ("print hi")
 
+#change
